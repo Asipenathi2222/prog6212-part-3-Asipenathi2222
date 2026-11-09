@@ -20,21 +20,23 @@ track their enrolments and view their personal race history.
 
 ## Project Screenshots
 
-![Screenshot 1](docs/screenshot-2026-11-09-224606.png)
+## Project Screenshots
 
-![Screenshot 2](docs/screenshot-2026-11-09-230958.png)
+![Screenshot 1](docs/Screenshot%202026-11-09%20224606.png)
 
-![Screenshot 3](docs/screenshot-2026-11-09-231024.png)
+![Screenshot 2](docs/Screenshot%202026-11-09%20230958.png)
 
-![Screenshot 4](docs/screenshot-2026-11-09-231128.png)
+![Screenshot 3](docs/Screenshot%202026-11-09%20231024.png)
 
-![Screenshot 5](docs/screenshot-2026-11-09-231154.png)
+![Screenshot 4](docs/Screenshot%202026-11-09%20231128.png)
 
-![Screenshot 6](docs/screenshot-2026-11-09-231210.png)
+![Screenshot 5](docs/Screenshot%202026-11-09%20231154.png)
 
-![Screenshot 7](docs/screenshot-2026-11-09-231302.png)
+![Screenshot 6](docs/Screenshot%202026-11-09%20231210.png)
 
-![Screenshot 8](docs/screenshot-2026-11-09-231315.png)
+![Screenshot 7](docs/Screenshot%202026-11-09%20231302.png)
+
+![Screenshot 8](docs/Screenshot%202026-11-09%20231315.png)
 
 ## Roles
 
