@@ -3,7 +3,7 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# dotenv files
+# dotenv files 
 .env
 
 # User-specific files
@@ -479,6 +479,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
 # Vim temporary swap files
 *.swp
