@@ -16,7 +16,25 @@ track their enrolments and view their personal race history.
   My screenshots will be displayed here.
   ## Project Screenshots
 
+## RaceDay Project Screenshots
+
 ![RaceDay API Screenshot](docs/your-screenshot-144923.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-224606.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-230958.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-231024.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-231128.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-231154.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-231210.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-231302.png)
+
+![RaceDay API Screenshot](docs/your-screenshot-2026-11-09-231315.png)
 
 ## Roles
 
@@ -133,5 +151,5 @@ New API endpoints added for the MVC app:
 
 ## AI usage disclosure
 
-AI assistance (Claude) was used while planning and scaffolding Part 3 (MVC structure, views, Docker and CI files).
-The code was reviewed, run and tested by me, and I can explain every part of it in the video.
+AI assistance (Claude) was used for ideas and assistance while planning and scaffolding Part 3 (MVC structure, views, Docker and CI files).
+The code was reviewed, run and tested by me, and I can explain every part of it in the video. Its unfortunate that i cant upload the video or do it due to time. 
