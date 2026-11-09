@@ -18,21 +18,23 @@ track their enrolments and view their personal race history.
 
 ## RaceDay Project Screenshots
 
-(docs/screenshot-2026-11-09-224606.png)
+## Project Screenshots
 
-(docs/screenshot-2026-11-09-230958.png)
+![Screenshot 1](docs/screenshot-2026-11-09-224606.png)
 
-(docs/screenshot-2026-11-09-231024.png)
+![Screenshot 2](docs/screenshot-2026-11-09-230958.png)
 
-(docs/screenshot-2026-11-09-231128.png)
+![Screenshot 3](docs/screenshot-2026-11-09-231024.png)
 
-(docs/screenshot-2026-11-09-231154.png)
+![Screenshot 4](docs/screenshot-2026-11-09-231128.png)
 
-(docs/screenshot-2026-11-09-231210.png)
+![Screenshot 5](docs/screenshot-2026-11-09-231154.png)
 
-(docs/screenshot-2026-11-09-231302.png)
+![Screenshot 6](docs/screenshot-2026-11-09-231210.png)
 
-(docs/screenshot-2026-11-09-231315.png)
+![Screenshot 7](docs/screenshot-2026-11-09-231302.png)
+
+![Screenshot 8](docs/screenshot-2026-11-09-231315.png)
 
 ## Roles
 
