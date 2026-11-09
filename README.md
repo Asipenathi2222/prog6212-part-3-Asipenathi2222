@@ -10,10 +10,13 @@ track their enrolments and view their personal race history.
 | Part 2 | ASP.NET Core Web API (`RaceDay.API`) with EF Core, session authentication, Swagger and unit tests (`RaceDay.API.Tests`) |
 | Part 3 | ASP.NET Core MVC front end (`RaceDay.MVC`), Azure Blob Storage, Docker and CI/CD |
 
-- **YouTube video (Part 3):** `PASTE UNLISTED YOUTUBE LINK HERE`
+- **YouTube video (Part 3) // I could not upload the video , apologies for that. 
 - **CI/CD green build:**
 
-  `PASTE SCREENSHOT HERE: ![CI](docs/ci-green-build.png)`
+  My screenshots will be displayed here.
+  ## Project Screenshots
+
+![RaceDay API Screenshot](docs/your-screenshot-144923.png)
 
 ## Roles
 
