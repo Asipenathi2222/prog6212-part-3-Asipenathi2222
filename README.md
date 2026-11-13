@@ -11,7 +11,8 @@ track their enrolments and view their personal race history.
 | Part 3 | ASP.NET Core MVC front end (`RaceDay.MVC`), Azure Blob Storage, Docker and CI/CD |
 
 - **YouTube video (Part 3)** link https:// https://youtu.be/cMilzQK8qqE
-  **CI** ![Screenshot](docs/Screenshot2026-11-13 141031.png).
+  **CI** ![GitHub Actions Success](docs/Screenshot%202026-11-13%20141031.png)
+
   My screenshots will be displayed here.
   ## Project Screenshots
 
