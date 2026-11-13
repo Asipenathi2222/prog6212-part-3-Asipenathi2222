@@ -92,17 +92,7 @@ Passwords are stored hashed (PBKDF2, SHA-256, 100 000 iterations).
 
 ## Azure Blob Storage
 
-1. In the Azure portal create a **Storage account** (Standard, LRS) and enable **Allow Blob anonymous access**
-   (Configuration blade) so the browser can display uploaded images.
-2. Copy the connection string (Security + networking -> Access keys).
-3. Set it **without committing it**:
-   - Visual Studio: right-click `RaceDay.API` -> **Manage User Secrets** and add
-     `{ "AzureBlob": { "ConnectionString": "<your connection string>" } }`
-   - Docker: `AZURE_BLOB_CONNECTION_STRING` environment variable (see below).
-4. The API creates the container `raceday-images` on first upload.
-
-If no connection string is configured, the API falls back to a local `wwwroot/uploads` folder so the app still runs
-during development and in CI. For marking, run with Azure configured.
+I could not create an Azure storage account because my school Azure account has no subscription, so the Azure upload path has not been tested against a live storage account. When no connection string is configured, the API automatically uses a local wwwroot/uploads folder, so banner and profile picture uploads still work and display in the application. This local fallback is what the video demonstrates.
 
 ## Docker
 
